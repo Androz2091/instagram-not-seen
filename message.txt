@@ -1,0 +1,47 @@
+0|atlanta  | HTTPError [AbortError]: The user aborted a request.
+0|atlanta  |     at RequestHandler.execute (C:\Users\Dylan\OneDrive\Bureau\S.A.R.A.H\node_modules\discord.js\src\rest\RequestHandler.js:106:9)
+0|atlanta  |     at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+0|atlanta  |   code: 500,
+0|atlanta  |   method: 'post',
+0|atlanta  |   path: '/channels/722117629044850748/messages'
+0|atlanta  | }
+0|atlanta  | HTTPError [AbortError]: The user aborted a request.
+0|atlanta  |     at RequestHandler.execute (C:\Users\Dylan\OneDrive\Bureau\S.A.R.A.H\node_modules\discord.js\src\rest\RequestHandler.js:106:9)
+0|atlanta  |     at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+0|atlanta  |   code: 500,
+0|atlanta  |   method: 'post',
+0|atlanta  |   path: '/channels/722117629044850748/messages'
+0|atlanta  | }
+.
+.
+.
+0|atlanta  |
+0|atlanta  | (process:21180): Pango-WARNING : 11:25:01.562: couldn't load font "Burbank Big Condensed, Semi-Bold Not-Rotated 50px", falling back to "Sans Semi-Bold Not-Rotated 50px", expect ugly output.
+0|atlanta  |
+0|atlanta  | (process:21180): Pango-WARNING : 11:25:01.564: couldn't load font "Burbank Big Condensed, Semi-Bold Not-Rotated 70px", falling back to "Sans Semi-Bold Not-Rotated 70px", expect ugly output.
+0|atlanta  |
+0|atlanta  | (process:21180): Pango-WARNING : 11:25:01.564: couldn't load font "Keep Calm Medium Not-Rotated 18px", falling back to "Sans Medium Not-Rotated 18px", expect ugly output.
+0|atlanta  |
+0|atlanta  | (process:21180): Pango-WARNING : 11:25:01.568: couldn't load font "Keep Calm Medium Not-Rotated 37px", falling back to "Sans Medium Not-Rotated 37px", expect ugly output.
+0|atlanta  |
+0|atlanta  | (process:21180): Pango-WARNING : 11:25:01.569: couldn't load font "Keep Calm Medium Not-Rotated 26px", falling back to "Sans Medium Not-Rotated 26px", expect ugly output.
+0|atlanta  |
+0|atlanta  | (process:21180): Pango-WARNING : 11:25:01.574: couldn't load font "Keep Calm Medium Not-Rotated 23px", falling back to "Sans Medium Not-Rotated 23px", expect ugly output.
+.
+.
+.
+0|atlanta  |     at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+0|atlanta  |   type: 'invalid-json'
+0|atlanta  | }
+0|atlanta  | FetchError: invalid json response body at https://fnbr.co/api/shop reason: Unexpected token < in JSON at position 0
+0|atlanta  |     at C:\Users\Dylan\OneDrive\Bureau\S.A.R.A.H\node_modules\node-fetch\lib\index.js:272:32
+0|atlanta  |     at runMicrotasks (<anonymous>)
+0|atlanta  |     at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+0|atlanta  |   type: 'invalid-json'
+0|atlanta  | }
+0|atlanta  | FetchError: invalid json response body at https://fnbr.co/api/shop reason: Unexpected token < in JSON at position 0
+0|atlanta  |     at C:\Users\Dylan\OneDrive\Bureau\S.A.R.A.H\node_modules\node-fetch\lib\index.js:272:32
+0|atlanta  |     at runMicrotasks (<anonymous>)
+0|atlanta  |     at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+0|atlanta  |   type: 'invalid-json'
+0|atlanta  | }
