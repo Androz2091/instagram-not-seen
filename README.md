@@ -1,8 +1,6 @@
 # Instagram Not Seen
 
-A Chrome extension. Friends shouldn't see if you're spying them or not.
-
-Watch Instagram stories on the web without showing up in the viewer list.
+A Chrome extension. Watch Instagram stories on the web without showing up in the viewer list.
 
 ## Install
 
